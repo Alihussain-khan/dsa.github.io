@@ -1,5 +1,5 @@
 my_array = [64, 34, 25, 12, 22, 11, 90, 5];
-console.log("original array" + my_array);
+console.log("original array " + my_array);
 
 //bubble sort
 const n = my_array.length;
@@ -12,6 +12,6 @@ for (i = 0; i < n; i++) {
     }
   }
 }
-console.log("after bubble sort" + my_array);
+console.log("after bubble sort " + my_array);
 
 //selection sort
